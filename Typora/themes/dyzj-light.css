@@ -1,4 +1,4 @@
-@import url(https://static.haonong365.com/source/dyzj.css);
+@import url(https://raw.githubusercontent.com/kylin20200921/picgo.wangk.cn/1.0/Typora/themes/source/dyzj.css);
 
 :root {
     /* dy color */
@@ -54,5 +54,5 @@
     --body-font: 'Source Sans Pro', '等距更纱黑体 SC', 'Helvetica Neue', Arial, sans-serif; /* 全局字体（"Poppins", -apple-system, "Helvetica Neue", Helvetica, "Noto Sans", "Nimbus Sans L", Arial, "Liberation Sans", "Noto Sans CJK SC", "PingFang SC", "Hiragino Sans GB", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;） */
     --code-font: 'JetBrains Mono'; /* 代码块以及行内代码字体 */
     /* bg image */
-    --bgimg-url: url(https://static.haonong365.com/source/bg-light.gif);
+    --bgimg-url: url(https://raw.githubusercontent.com/kylin20200921/picgo.wangk.cn/1.0/Typora/themes/source/bg-light.gif);
 }

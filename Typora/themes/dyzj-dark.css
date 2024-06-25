@@ -1,5 +1,5 @@
-@import url(https://static.haonong365.com/source/dyzj.css);
-@import url(https://static.haonong365.com/source/darkcode.css);
+@import url(https://raw.githubusercontent.com/kylin20200921/picgo.wangk.cn/1.0/Typora/themes/source/dyzj.css);
+@import url(https://raw.githubusercontent.com/kylin20200921/picgo.wangk.cn/1.0/Typora/themes/source/darkcode.css);
 
 :root {
     /* dy color */
@@ -55,7 +55,7 @@
     --body-font: 'Source Sans Pro', '等距更纱黑体 SC', 'Helvetica Neue', Arial, sans-serif; /* 全局字体 */
     --code-font: 'JetBrains Mono'; /* 代码块以及行内代码字体 */
     /* bg image */
-    --bgimg-url: url(https://static.haonong365.com/source/bg-dark.gif);
+    --bgimg-url: url(https://raw.githubusercontent.com/kylin20200921/picgo.wangk.cn/1.0/Typora/themes/source/bg-dark.gif);
 }
 
 img {
